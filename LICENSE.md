@@ -1,4 +1,4 @@
-
+Enhance CrossOver for macOS with custom CrossOver for macOS Helper | file-sharing + drag-and-drop-support, the #1 helper. Includes file-sharing and drag-and-drop-support for a
 
 
 
